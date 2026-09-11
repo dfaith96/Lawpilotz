@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.lawpilotz.space/sitemap.xml
+Sitemap: https://www.lawpilotz.it.com/sitemap.xml
